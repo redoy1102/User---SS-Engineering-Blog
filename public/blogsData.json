@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with C Programming",
+    "excerpt": "Learn the basics of C programming language, including syntax, variables, and control structures.",
+    "author": {
+      "name": "Jane Doe",
+      "profileUrl": "https://example.com/authors/jane-doe"
+    },
+    "publishDate": "2024-04-15 10:00:00",
+    "category": "C",
+    "thumbnail": "https://i.imgur.com/4L7MNL8.png",
+    "detailsUrl": "https://example.com/blogs/c-programming-getting-started"
+  },
+  {
+    "id": 2,
+    "title": "Mastering C++ for Modern Applications",
+    "excerpt": "Dive deep into C++ features like object-oriented programming, templates, and the Standard Library.",
+    "author": {
+      "name": "John Smith",
+      "profileUrl": "https://example.com/authors/john-smith"
+    },
+    "publishDate": "2024-05-20 14:30:00",
+    "category": "C++",
+    "thumbnail": "https://i.imgur.com/3mAsr9K.png",
+    "detailsUrl": "https://example.com/blogs/mastering-cpp-modern-applications"
+  },
+  {
+    "id": 3,
+    "title": "Introduction to Python for Data Science",
+    "excerpt": "Explore how Python can be used for data analysis, visualization, and machine learning projects.",
+    "author": {
+      "name": "Alice Johnson",
+      "profileUrl": "https://example.com/authors/alice-johnson"
+    },
+    "publishDate": "2024-06-10 09:15:00",
+    "category": "Python",
+    "thumbnail": "https://i.imgur.com/2Rt2aTn.png",
+    "detailsUrl": "https://example.com/blogs/python-data-science-introduction"
+  },
+  {
+    "id": 4,
+    "title": "Introduction to Php for Laravel",
+    "excerpt": "Explore how Php can be used for web development.",
+    "author": {
+      "name": "Alice Johnson",
+      "profileUrl": "https://example.com/authors/alice-johnson"
+    },
+    "publishDate": "2024-06-10 09:15:00",
+    "category": "Php",
+    "thumbnail": "https://i.imgur.com/2Rt2aTn.png",
+    "detailsUrl": "https://example.com/blogs/python-data-science-introduction"
+  },
+  {
+    "id": 5,
+    "title": "Introduction to Php for Laravel",
+    "excerpt": "Explore how Php can be used for web development.",
+    "author": {
+      "name": "Alice Johnson",
+      "profileUrl": "https://example.com/authors/alice-johnson"
+    },
+    "publishDate": "2024-06-10 09:15:00",
+    "category": "Php",
+    "thumbnail": "https://i.imgur.com/2Rt2aTn.png",
+    "detailsUrl": "https://example.com/blogs/python-data-science-introduction"
+  },
+  {
+    "id": 6,
+    "title": "Getting Started with C Programming Advanced",
+    "excerpt": "Learn the basics of C programming language, including syntax, variables, and control structures.",
+    "author": {
+      "name": "Fuad",
+      "profileUrl": "https://example.com/authors/jane-doe"
+    },
+    "publishDate": "2024-04-15 10:00:00",
+    "category": "C",
+    "thumbnail": "https://i.imgur.com/4L7MNL8.png",
+    "detailsUrl": "https://example.com/blogs/c-programming-getting-started"
+  }
+]
